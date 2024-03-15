@@ -4,3 +4,5 @@ lib/
 
 # Folders created at documentation generation
 doc/build/
+out/build/
+.vs
