@@ -95,7 +95,7 @@ int main(int argc, char* argv[])
             if (lastModified < get_file_modified_date(szScriptPath))
                 break;
 
-            Sleep(1000);
+            Sleep(500);
         }
     }
 
